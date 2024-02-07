@@ -18,7 +18,7 @@ Clone the repository:
 ```
 ## Install dependencies:
 ```bash
-  composer install
+  npm && composer install
 ```
 ## Copy the .env.example file and rename it to .env:
 
