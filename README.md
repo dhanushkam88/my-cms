@@ -45,6 +45,14 @@ Clone the repository:
 ## Tests
 
 ```bash
+  📁 Components
+  🗳 routes.js
+  🗳 App.js
+```
+##Project Structure
+#Vue
+You can find the Vue app structure under resources/js
+```bash
   php artisan test
 ```
 ## License
