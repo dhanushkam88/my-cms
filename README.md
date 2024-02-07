@@ -46,8 +46,8 @@ Clone the repository:
 ```bash
   php artisan test
 ```
-##Project Structure
-##Vue 
+## Project Structure
+## Vue 
  You can find the Vue app structure under ```bash resources/js```
 ```bash
   📁 Components
