@@ -35,6 +35,13 @@ Clone the repository:
 ```bash
   php artisan migrate
 ```
+## Start Server
+```bash
+  php artisan serve
+```
+```bash
+  npm run watch
+```
 ## Tests
 
 ```bash
