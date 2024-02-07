@@ -43,17 +43,16 @@ Clone the repository:
   npm run watch
 ```
 ## Tests
-
+```bash
+  php artisan test
+```
+##Project Structure
+##Vue 
+ You can find the Vue app structure under ```bash resources/js```
 ```bash
   📁 Components
   🗳 routes.js
   🗳 App.js
-```
-##Project Structure
-#Vue
-You can find the Vue app structure under resources/js
-```bash
-  php artisan test
 ```
 ## License
 
